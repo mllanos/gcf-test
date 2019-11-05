@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/mllanos/gcf-test/issues"
   },
-  "homepage": "https://github.com/mllanos/gcf-test#readme"
+  "homepage": "https://github.com/mllanos/gcf-test#readme",
+  "dependencies": {
+    "firebase-admin": "^8.7.0",
+    "firebase-functions": "^3.3.0"
+  }
 }
